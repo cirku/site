@@ -1,0 +1,11 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/6d/e0/2c/6de02c8335f6d6fdfb647510cb0cad40.gif);
+	background-size: 200px;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+}

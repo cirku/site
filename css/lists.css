@@ -1,0 +1,16 @@
+body{
+	background-color: skyblue;
+}
+p{
+	font-size: 50p;
+	text-align: center;
+	background-color: white;
+
+	color: skyorange;
+	font-family: 'Handjet', cursive;
+font-family: 'Rubik Beastly', cursive;
+}
+ul{
+font-size: 24px;
+color: purple;
+}
